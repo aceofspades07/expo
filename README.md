@@ -1,4 +1,4 @@
-# EXPO — Expressive Policy Optimization
+# EXPO - Expressive Policy Optimization
 
 EXPO fine-tunes a frozen diffusion policy via online RL using a small Gaussian edit policy and Q-ensemble, applied here to the **Robomimic Square** (low-dim) task.
 
