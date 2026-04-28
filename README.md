@@ -2,6 +2,16 @@
 
 EXPO fine-tunes a frozen diffusion policy via online RL using a small Gaussian edit policy and Q-ensemble, applied here to the **Robomimic Square** (low-dim) task.
 
+## Rollout Videos
+
+Sample rollouts of the EXPO-trained policy on the Robomimic Square task:
+
+![Successful rollout](media/successful_rollout.gif)
+
+![Training rollout](media/training_rollout.gif)
+
+All evaluation rollout videos are available in [`expo_eval_output/media/`](expo_eval_output/media/).
+
 ## Installation
 
 ```bash
